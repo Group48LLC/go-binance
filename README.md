@@ -28,7 +28,7 @@ Name | Description | Status
 ### Installation
 
 ```shell
-go get github.com/adshao/go-binance/v2
+go get github.com/Group48LLC/go-binance/v2
 ```
 
 For v1 API, it has been moved to `v1` branch, please use:
@@ -41,7 +41,7 @@ go get github.com/adshao/go-binance/v1
 
 ```golang
 import (
-    "github.com/adshao/go-binance/v2"
+    "github.com/Group48LLC/go-binance/v2"
 )
 ```
 
